@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Nate
+- 👋 Hi, I’m @nc-btc
 - 👀 I’m interested in ... freedom + soveriengty
 - 🌱 I’m currently learning ... lightning + AI/ML
 - 💞️ I’m looking to collaborate on ... bitcoin + lightning
-- 📫 How to reach me ... dm @castillo_btc or email nate@lucentlabs.co
+- 📫 How to reach me ... dm @nc-btc
 
 <!---
 nc-btc/nc-btc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
