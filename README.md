@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nate
-- 👀 I’m interested in ... freedom + soveriegnty
+- 👀 I’m interested in ... freedom + soveriengty
 - 🌱 I’m currently learning ... lightning + AI/ML
 - 💞️ I’m looking to collaborate on ... bitcoin + lightning
 - 📫 How to reach me ... dm @castillo_btc or email nate@lucentlabs.co
